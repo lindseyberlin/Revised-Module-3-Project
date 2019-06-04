@@ -35,7 +35,7 @@ in a distinct Jupyter Notebook inside the project :
 - Question1 - Bias by Genre
 - Question2_Label
 - Question3 - Score Threshold
-- Question4_Reviewers
+- Question4_ScorePrediction
 
 An extra python file named 'DocumentClassification.py' contains our Naive Bayes
 Document Classification python class used in Question 4.
