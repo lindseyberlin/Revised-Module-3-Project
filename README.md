@@ -1,7 +1,7 @@
 # Pitchfork Reviews Hypothesis Testing and Statistical Analysis
 
 
-## Introduction
+Introduction
 ---------------
 
 Our project is aimed towards the editorial team at Pitchfork. We examine reviews
@@ -12,7 +12,7 @@ music labelled "Best New Music" and between reviewers. Our goal is to provide
 insight on possible biases within their reviews.
 
 
-## Installation
+Installation
 ---------------
 
 In order to get the Jupyter notebooks to work, you will have to download the
@@ -25,7 +25,7 @@ file.
 ![Done](https://i.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy-downsized.gif)
 
 
-## How-To
+How-To
 ---------
 
 Once you have setup the Pitchfork database, you are good to go through each of
