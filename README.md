@@ -2,6 +2,7 @@
 
 
 ## Introduction
+---------------
 
 Our project is aimed towards the editorial team at Pitchfork. We examine reviews
 from January 1999 to January 2017 to determine whether ratings are statistically
@@ -12,6 +13,7 @@ insight on possible biases within their reviews.
 
 
 ## Installation
+---------------
 
 In order to get the Jupyter notebooks to work, you will have to download the
 Pitchfork Reviews Sqlite Database first [here on Kaggle](https://www.kaggle.com/nolanbconaway/pitchfork-data)
@@ -24,6 +26,7 @@ file.
 
 
 ## How-To
+---------
 
 Once you have setup the Pitchfork database, you are good to go through each of
 the questions we tried to answer during our project. Those questions are detailed
