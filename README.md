@@ -1,8 +1,15 @@
-# Pitchfork Reviews Hypothesis Testing Analysis
+# Pitchfork Reviews Hypothesis Testing and Statistical Analysis
+
 
 ## Introduction
 
-The project
+Our project is aimed towards the editorial team at Pitchfork. We examine reviews
+from January 1999 to January 2017 to determine whether ratings are statistically
+different within different categories - more specifically, we will examine
+differences in review scores between music genres, between record labels, between
+music labelled "Best New Music" and between reviewers. Our goal is to provide
+insight on possible biases within their reviews.
+
 
 ## Installation
 
@@ -10,9 +17,11 @@ In order to get the Jupyter notebooks to work, you will have to download the
 Pitchfork Reviews Sqlite Database first [here on Kaggle](https://www.kaggle.com/nolanbconaway/pitchfork-data)
 
 Make sure you place the unzipped file under the project root folder and name it
-`database.sqlite`
+`database.sqlite`. A description of the DB can be found in the `pitchfork-db.png`
+file.
 
 ![Done](https://i.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy-downsized.gif)
+
 
 ## How-To
 
