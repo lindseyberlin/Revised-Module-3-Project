@@ -12,7 +12,7 @@ Pitchfork Reviews Sqlite Database first [here on Kaggle](https://www.kaggle.com/
 Make sure you place the unzipped file under the project root folder and name it
 `database.sqlite`
 
-![Done](https://media.giphy.com/media/9Jcw5pUQlgQLe5NonJ/source.gif)
+![Done](https://i.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy-downsized.gif)
 
 ## How-To
 
